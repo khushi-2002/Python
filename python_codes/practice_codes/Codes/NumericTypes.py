@@ -49,3 +49,4 @@ print(0XA)
 print(0b1001+4j)
 name = int(input("Enter the binary number and let me change it to the integer "),2)
 print(name)
+
