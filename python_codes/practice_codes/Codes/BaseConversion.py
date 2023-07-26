@@ -45,7 +45,7 @@ print(complex(12,90))
 # name = 12+4j
 # print(bool(name))
 # print(bool(0+0j))
-# name = 'Khushi'
+# name = 'Khushi'""
 # print(bool(name))
 # name = 'True'
 # print(bool(name))
@@ -54,3 +54,7 @@ print(bool(name))
 
 # str() works on any type of data
 print(str(True))
+print(str(False))
+print(str(False))
+print(str(0))
+print(type("0"))
